@@ -1,0 +1,42 @@
+_repo: Bookbinding-for-beginners_68844
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Leavitt, Frank M. (Frank Mitchell)
+    alias: Leavitt, F. M. (Frank Mitchell)
+    birthdate: 1865
+    deathdate: 1953
+    gutenberg_agent_id: '54959'
+    url: http://www.gutenberg.org/2009/agents/54959
+creator:
+  authors:
+  - agent_name: Bean, Florence O. (Florence Ordway)
+    alias: Bean, Florence Ordway
+    gutenberg_agent_id: '54974'
+    url: http://www.gutenberg.org/2009/agents/54974
+  - agent_name: Brodhead, John C.
+    gutenberg_agent_id: '54975'
+    url: http://www.gutenberg.org/2009/agents/54975
+description: ''
+gutenberg_issued: '2022-08-26'
+identifiers:
+  gutenberg: '68844'
+  lccn: '18022458'
+language: en
+pgterms:marc904: https://archive.org/details/bookbindingforbe00beanrich
+pgterms:marc905: 20220104113131bean
+pgterms:marc906: '1918'
+pgterms:marc907: us
+production_note: Alan, Peter Becker and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: United States :The Davis press,1918.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bookbinding'
+- !lcc 'Z'
+- GITenberg
+title: Bookbinding for beginners
+url: http://www.gutenberg.org/ebooks/68844
